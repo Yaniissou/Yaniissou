@@ -1,4 +1,6 @@
-## Hi there 👋
+## Yanissou here!
+
+Currently enjoying my ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java) projects
 
 <!--
 **Yaniissou/Yaniissou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
