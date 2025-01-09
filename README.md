@@ -2,7 +2,7 @@
 
 Just hosting some proof of concepts here
 
-Main language : ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
+Main language: ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
 
 <!--
 **Yaniissou/Yaniissou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
