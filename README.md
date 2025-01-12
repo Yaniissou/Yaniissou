@@ -1,7 +1,9 @@
-![image](https://github.com/user-attachments/assets/ed408124-fa8f-4124-9ba2-91016643b90c)
-
-<h1 align="center">Hi 👋, I'm Yanissou</h1>
-<h3 align="center">A passionate Java developer from France</h3>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/6db1dca4-7032-4098-b22d-c020fbc60f17" alt=me/>
+  
+  <h1>Hi 👋, I'm Yanissou</h1>
+  <h3>A passionate Java developer from France</h3>
+</div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaniissou&label=Profile%20views&color=0e75b6&style=flat" alt="yaniissou" /> </p>
 
