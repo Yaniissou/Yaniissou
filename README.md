@@ -9,6 +9,8 @@
 
 - 🔭 I’m currently working on [UHC World](uhcworld.fr)
 
+- 🎶 Follow me on [Spotify](https://open.spotify.com/user/ograndyanis?si=3b594e47476e43cf)
+
 - 📄 Know about my experiences [portfolio.yanissou.ovh](portfolio.yanissou.ovh)
 
 - ⚡ Fun fact **I love Java**
