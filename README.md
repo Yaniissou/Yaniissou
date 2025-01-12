@@ -1,3 +1,5 @@
+![image](https://github.com/user-attachments/assets/ed408124-fa8f-4124-9ba2-91016643b90c)
+
 <h1 align="center">Hi 👋, I'm Yanissou</h1>
 <h3 align="center">A passionate Java developer from France</h3>
 
