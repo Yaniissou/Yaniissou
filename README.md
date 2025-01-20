@@ -7,11 +7,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yaniissou&label=Profile%20views&color=0e75b6&style=flat" alt="yaniissou" /> </p>
 
-- 🔭 I’m currently working on [UHC World](uhcworld.fr)
+- 🔭 I’m currently working on [UHC World](https://uhcworld.fr)
 
 - 🎶 Follow me on [Spotify](https://open.spotify.com/user/ograndyanis?si=3b594e47476e43cf)
 
-- 📄 Know about my experiences [portfolio.yanissou.ovh](portfolio.yanissou.ovh)
+- 📄 Know about my [experiences](portfolio.yanissou.ovh)
 
 - ⚡ Fun fact **I love Java**
 
