@@ -11,7 +11,7 @@
 
 - 🎶 Follow me on [Spotify](https://open.spotify.com/user/ograndyanis?si=3b594e47476e43cf)
 
-- 📄 Know about my [experiences](portfolio.yanissou.ovh)
+- 📄 Know about my [experiences](https://portfolio.yanissou.ovh)
 
 - ⚡ Fun fact **I love Java**
 
