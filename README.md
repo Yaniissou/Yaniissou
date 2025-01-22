@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6db1dca4-7032-4098-b22d-c020fbc60f17" alt=me/>
   
-  <h1>Hi 👋, I'm Yanissou</h1>
+  <h1>Hi 👋, I'm Yanis</h1>
   <h3>A passionate Java developer from France</h3>
 </div>
 
